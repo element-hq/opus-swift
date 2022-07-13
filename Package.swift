@@ -18,7 +18,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "YbridOpus", 
-            url: "https://github.com/ybrid/opus-swift/releases/download/0.8.2/YbridOpus.xcframework.zip",
+            url: "https://github.com/vector-im/opus-swift/releases/download/0.8.2/YbridOpus.xcframework.zip",
             checksum: "e0a4bf870f3974d66b8d159388509f6f98d811473d4145739bf8c696fb499e4f"
             )
     ]
